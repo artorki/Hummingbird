@@ -1,2 +1,2 @@
-# Hummingbird-GarlicToOnion-
+# Hummingbird
 Upgrade version of Garlic to onion
